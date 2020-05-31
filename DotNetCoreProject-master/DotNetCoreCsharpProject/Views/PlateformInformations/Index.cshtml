@@ -1,0 +1,170 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@model DotNetCoreCsharpProject.Entities.PlanningDates
+
+<h3>Platfrom informations</h3>
+@ViewBag.testdate
+<br/>
+@ViewBag.testdate2
+
+    @using (Html.BeginForm("planningDates",
+    "PlateformInformations",
+    FormMethod.Post,
+    new { id = "planningDates" }
+    ))
+    {
+  
+    <div class="row">
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date d'attribution d'encadrants :</label>
+            @if (Model.DateAttributionEnc != null)
+            {
+                <input name="DateAttributionEnc" type="datetime-local" value="@Model.DateAttributionEnc.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateAttributionEnc" type="datetime-local"  class="form-control" />
+            }
+        </div>
+
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date debut creation des groupes :</label>
+            @if (Model.DateOuvertureEnrGrp != null)
+            {
+                <input name="DateOuvertureEnrGrp" type="datetime-local" value="@Model.DateOuvertureEnrGrp.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateOuvertureEnrGrp" type="datetime-local"  class="form-control" />
+
+            }
+        </div>
+
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date fin creation des groupes :</label>
+            @if (Model.DateFinEnrGrp != null)
+            {
+                <input name="DateFinEnrGrp" type="datetime-local" value="@Model.DateFinEnrGrp.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateFinEnrGrp" type="datetime-local" class="form-control" />
+
+            }
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit d'insertion du sujet :</label>
+            @if (Model.DateLimitInsSujet != null)
+            {
+                <input name="DateLimitInsSujet" d type="datetime-local" value="@Model.DateLimitInsSujet.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateLimitInsSujet" d type="datetime-local"  class="form-control" />
+
+            }
+        </div>
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit rapport d'avancement 1 :</label>
+            @if (Model.DateLimitRapportAvt1 != null)
+            {
+                <input name="DateLimitRapportAvt1" type="datetime-local" value="@Model.DateLimitRapportAvt1.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateLimitRapportAvt1" type="datetime-local" class="form-control" />
+
+            }
+        </div>
+
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit rapport d'avancement 2 :</label>
+            @if (Model.DateLimitRapportAvt2 != null)
+            {
+                <input name="DateLimitRapportAvt2" type="datetime-local" value="@Model.DateLimitRapportAvt2.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateLimitRapportAvt2" type="datetime-local" class="form-control" />
+            }
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit rapport d'avancement 3 :</label>
+            @if (Model.DateLimitRapportAvt3 != null)
+            {
+                <input name="DateLimitRapportAvt3" type="datetime-local" value="@Model.DateLimitRapportAvt3.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+
+            }
+            else
+            {
+                <input name="DateLimitRapportAvt3" type="datetime-local" class="form-control" />
+            }
+        </div>
+
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit rapport d'avancement 4 :</label>
+            @if (Model.DateLimitRapportAvt4 != null)
+            {
+                <input name="DateLimitRapportAvt4" type="datetime-local" value="@Model.DateLimitRapportAvt4.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+            }
+            else
+            {
+                <input name="DateLimitRapportAvt4" type="datetime-local" class="form-control" />
+            }
+        </div>
+        <div class="form-group col">
+            <label for="exampleFormControlSelect1">Date limit rapport final :</label>
+            @if (Model.DateLimitRapportFinal != null)
+            {
+                <input name="DateLimitRapportFinal" type="datetime-local" value="@Model.DateLimitRapportFinal.Value.ToString("yyyy-MM-ddThh:mm")" class="form-control" />
+            }
+            else
+            {
+                <input name="DateLimitRapportFinal" type="datetime-local" class="form-control" />
+            }
+        </div>
+    </div>
+
+        <input type="submit" class="btn-sm bg-primary text-white" value="Upload Dates" />
+    }
+
+
+
+
+<div class="mt-3">
+    <h3>Soutenance planning</h3>
+    @using (Html.BeginForm("uploadPlanning",
+                   "PlateformInformations",
+                   FormMethod.Post,
+                   new { id = "uploadForm", enctype = "multipart/form-data" }
+                  ))
+    {
+        <div class="form-group">
+            <label for="file">Select planning File:</label>
+            <input class="form-control-file" type="file" name="file" id="file" />
+        </div>
+
+        <input type="submit" class="btn-sm bg-primary text-white" value="Upload Planning" />
+        <br>
+        <a href="/Files/planning/@Model.PlanningSoutenanceFile" target="_blank">afficher le plannning</a>
+
+
+            }
+    </div>

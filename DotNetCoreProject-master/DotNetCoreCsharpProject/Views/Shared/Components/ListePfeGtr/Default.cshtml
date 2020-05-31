@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<DotNetCoreCsharpProject.ViewModels.GroupsModel>
+
+<table class="table">
+    <thead>
+        <th>#</th>
+        <th>Membres</th>
+        <th>Encadrant Interne</th>
+        <th>Sujet et Ville</th>
+    </thead>
+    <tbody>
+        @foreach (var grp in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => grp.id)
+                </td>
+                <td>
+                    @foreach (var student in grp.students)
+                    {
+                        @Html.DisplayFor(modelItem => student.LastName)
+                        @Html.DisplayFor(modelItem => student.FirstName)<br />
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => grp.encadrant.LastName)
+                    @Html.DisplayFor(modelItem => grp.encadrant.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => grp.sujet).[
+                    @Html.DisplayFor(modelItem => grp.ville) ]
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,230 @@
+﻿@{
+    ViewBag.Title = "Searching";
+}
+
+@model DotNetCoreCsharpProject.Models.SearchEngineModel
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+
+
+
+<script>
+
+
+    const seedStudents = function () {
+
+        $.get("/SearchEngine/GetStudents", {
+            FilId: $("#selectedFil").val(),
+            Id_niveau: $("#selectedNiveau").val()
+        }, function (data) {
+
+            $("#selectedStudents").empty();
+            
+                $("#selectedStudents").append("<option value=\"0\">Tous les etudiants de la filiere/niveau</option>")
+
+            console.log(data);
+            $.each(data, function (index, ligne) {
+                $("#selectedStudents").append("<option value=" + ligne.id + ">" + ligne.lastName + " " + ligne.firstName + "</option>")
+            });
+        })
+    }
+
+    const seedTheDiv = function () {
+
+        $.get("/SearchEngine/GetReports", {
+            FilId: $("#selectedFil").val(),
+            SearchedBy: $("#searchBy").val(),
+            SearchedText: $("#search").val(),
+            profId: $("#selectedProf").val(),
+            Id_Societe: $("#selectedSociete").val(),
+            Id_niveau: $("#selectedNiveau").val(),
+            selectedStudents: $("#selectedStudents").val()
+        }, function (data) {
+
+            $("#contenu").empty();
+            console.log(data);
+            $.each(data, function (index, ligne) {
+
+
+
+                $("#contenu").append("" +
+                    "  <a href=\"" + ligne.path + "\" target=\"_blank\">" +
+
+                    "    <div class=\"container report\">                                                                                    " +
+                    "      <div class=\"row\">                                                                                          " +
+                    "        <div class=\"col-9\">                                                                                  " +
+                    "          <div class=\"row\">                                                                                      " +
+                    "            <div class=\"col-3\"><span class=\"title\">sujet:</span></div>                                                            " +
+                    "            <div class=\"col-9\">                                                                              " +
+                    ligne.sujet +
+                    "            </div>                                                                                                    " +
+                    "          </div>                                                                                                      " +
+                    "          <div class=\"row\">                                                                                      " +
+                    "            <div class=\"col-3\"><span class=\"title\">Description :</span></div>                                         " +
+                    "            <div class=\"col-9\">                                                                              " +
+                    ligne.remarque +
+                    "            </div>                                                                                                    " +
+                    "          </div>                                                                                                      " +
+                    "        </div>                                                                                                        " +
+                    "                                                                                                                          " +
+                    "        <div class=\"col-3\">                                                                                  " +
+                    "          <div class=\"row\"><span class=\"title\">prof :</span>" + ligne.encadrant + "</div>                                                     " +
+                    "          <div class=\"row\"><span class=\"title\">filiere : </span>" + ligne.filiere + "</div>                                   " +
+                    "          <div class=\"row\"><span class=\"title\">niveau : </span>" + ligne.niveau + "</div>                                              " +
+                    "          <div class=\"row\"><span class=\"title\">Societe :</span> " + ligne.au + "</div>                             " +
+                    "        </div>                                                                                                        " +
+                    "      </div>                                                                                                          " +
+                    "    </div>                                                                                                            " +
+                    "</a>"
+                )
+            });
+        })
+    }
+
+
+    $(function () {
+        $("#search").keyup(function () {
+            seedTheDiv()
+        });
+    });
+
+    $(function () {
+        $("#selectedFil, #searchBy, #selectedProf, #selectedSociete, #selectedNiveau, #selectedStudents").change(function () {
+            seedTheDiv()
+        });
+    });
+
+    $(function () {
+        $("#selectedFil, #selectedNiveau").change(function () {
+            seedStudents()
+            seedTheDiv()
+        });
+    });
+
+</script>
+
+
+<style>
+
+    input:focus {
+        outline: none;
+        border: 0;
+    }
+
+    .form-control:focus {
+        border-color: inherit;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+
+    #search {
+        border: 0;
+    }
+
+    .groupe-form {
+        padding: 5px;
+    }
+
+    .title {
+        color: #04b6e6;
+    }
+
+    .report {
+        border-left: 2px solid #04b6e6;
+        margin-top: 2px;
+        padding: 10px;
+        padding-top: 30px;
+        transition: 1s;
+    }
+
+        .report:hover {
+            box-shadow: rgb(174, 216, 226) 4px 0px 20px;
+        }
+
+    .sujet {
+        margin-bottom: 6px;
+    }
+
+    #searchBar {
+        border-bottom: #04b6e6 2px solid;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+
+
+
+<form class="container ">
+    <div id="searchBar" class="row">
+        <input placeholder="Type Keywords"
+               class="form-control col-md-12"
+               type="text"
+               id="search" />
+    </div>
+    <div class="row">
+
+        <div class="col-md-4 form-group">
+            <label for="searchBy">Filiere</label>
+            <select id="selectedFil" name="Selectedfil" class="form-control">
+                <option value="0">toutes les filieres</option>
+                @foreach (var filiere in ViewBag.filieres)
+                {
+                    <option value="@filiere.IdFiliere">@filiere.NomFiliere</option>
+                }
+            </select>
+        </div>
+
+
+        <div class="col-md-4 form-group">
+            <label for="searchBy">Niveau</label>
+            <select id="selectedNiveau" name="SelectedNiveau" class="form-control">
+                <option value="0">touts les niveaux</option>
+                @foreach (var niveau in ViewBag.levels)
+                {
+                    <option value="@niveau.IdNiveau">@niveau.NomNiveau</option>
+                }
+            </select>
+        </div>
+
+        <div id="students" class="col-md-4 form-group">
+            <label for="searchBy">Etudiants :</label>
+            <select id="selectedStudents" name="SelectedNiveau" class="form-control">
+                <option value="0">Touts les etudiants</option>
+            </select>
+        </div>
+
+
+    </div>
+    <div class="row ">
+        <div class="col-md-4 col-md-offset-2 form-group">
+            <label for="searchBy">Entreprises</label>
+            <select id="selectedSociete" name="SelectedSociete" class="form-control">
+                <option value="0">toutes les Entreprises</option>
+                @foreach (var Societes in ViewBag.Societes)
+                {
+                    <option value="@Societes.Id">@Societes.Nom</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4 form-group">
+            <label for="searchBy">Professors</label>
+            <select id="selectedProf" name="SelectedProf" class="form-control">
+                <option value="0">touts les professors</option>
+                @foreach (var prof in ViewBag.professors)
+                {
+            <option value="@prof.Id">@prof.LastName @prof.FirstName</option>
+                }
+            </select>
+        </div>
+    </div>
+
+</form>
+
+<div name="student" id="contenu">
+    @ViewBag.test
+</div>
+
+

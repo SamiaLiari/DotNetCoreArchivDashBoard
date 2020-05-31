@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+
+}
+<!-- model DotNetCoreCsharpProject.-->
+@model DotNetCoreCsharpProject.ViewModels.UsersTabViewModel
+
+<h1>Index</h1>
+<ul class="nav nav-tabs">
+    <li role="presentation" class="@(Model.ActiveTab == DotNetCoreCsharpProject.ViewModels.Tab.Calendrier ? "active" : string.Empty )"><a asp-route-tabname="Calendrier" asp-action="SwitchToTabs">Calendrier   </a></li>
+    <li role="presentation" class="@(Model.ActiveTab == DotNetCoreCsharpProject.ViewModels.Tab.ListePfeInfo ? "active" : string.Empty )"><a asp-route-tabname="ListePfeInfo" asp-action="SwitchToTabs">Liste des Pfe Info    </a></li>
+    <li role="presentation" class="@(Model.ActiveTab == DotNetCoreCsharpProject.ViewModels.Tab.ListePfeGtr ? "active" : string.Empty )"><a asp-route-tabname="ListePfeGtr" asp-action="SwitchToTabs">Liste des Pfe GTR   </a></li>
+    <li role="presentation" class="@(Model.ActiveTab == DotNetCoreCsharpProject.ViewModels.Tab.PlanningSout ? "active" : string.Empty )"><a asp-route-tabname="PlanningSout" asp-action="SwitchToTabs">Planning des soutenances   </a></li>
+</ul>
+
+@switch (Model.ActiveTab)
+{
+    case DotNetCoreCsharpProject.ViewModels.Tab.Calendrier:
+        @await Component.InvokeAsync("Calendrier");
+        break;
+    case DotNetCoreCsharpProject.ViewModels.Tab.ListePfeInfo:
+        @await Component.InvokeAsync("ListePfeInfo");
+        break;
+    case DotNetCoreCsharpProject.ViewModels.Tab.ListePfeGtr:
+        @await Component.InvokeAsync("ListePfeGtr");
+        break;
+    case DotNetCoreCsharpProject.ViewModels.Tab.PlanningSout:
+        @await Component.InvokeAsync("PlanningSout");
+        break;
+    default:
+        break;
+}
+

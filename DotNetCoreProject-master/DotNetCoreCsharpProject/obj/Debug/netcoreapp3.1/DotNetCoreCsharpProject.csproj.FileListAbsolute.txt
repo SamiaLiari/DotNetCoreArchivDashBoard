@@ -1,0 +1,1124 @@
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+C:\Users\mac\source\repos\DotNetCoreCsharpProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Create.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Delete.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Details.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Edit.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.genruntimeconfig.cache
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\newGroup.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\addReport.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notes.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\EPPlus.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notes.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\addReport.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\newGroup.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.genruntimeconfig.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ClosedXML.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\PlateformInformations\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\SearchEngine\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\uploadFile.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\PlateformInformations\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\SearchEngine\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\uploadFile.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Create.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Delete.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Details.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Edit.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Create.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Delete.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Details.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Edit.cshtml.g.cs
+C:\Users\lenovo\Desktop\projectCoreArchivage\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ClosedXML.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\EPPlus.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notes.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Create.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Delete.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Details.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Edit.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Create.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Delete.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Details.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Edit.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\PlateformInformations\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\SearchEngine\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\addReport.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\newGroup.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\Index.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\uploadFile.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+\\Mac\Home\Desktop\dotNetS2\project\project final\DotNetCoreProject\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.genruntimeconfig.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.StaticWebAssets.xml
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.exe
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.deps.json
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.json
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.runtimeconfig.dev.json
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csprojAssemblyReference.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.Manifest.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreCsharpProject.StaticWebAssets.xml
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.MvcApplicationPartsAssemblyInfo.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorAssemblyInfo.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfoInputs.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.AssemblyInfo.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.input.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.TagHelpers.output.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorCoreGenerate.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Notes.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Create.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Delete.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Details.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Edit.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Filieres\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Create.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Delete.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Details.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Edit.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Levels\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\PlateformInformations\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\SearchEngine\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\addReport.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Student\newGroup.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\UploadUser\uploadFile.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cache
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.RazorTargetAssemblyInfo.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.Views.pdb
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.csproj.CopyComplete
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.dll
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\DotNetCoreCsharpProject.pdb
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\DashBoard\Index.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Calendrier\Default.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ListePfeInfo\Default.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ListePfeGtr\Default.cshtml.g.cs
+D:\School\CI4\ASP.NET\Core\DotNetCoreProject-master\DotNetCoreProject-master\DotNetCoreCsharpProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PlanningSout\Default.cshtml.g.cs

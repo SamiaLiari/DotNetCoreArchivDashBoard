@@ -1,0 +1,61 @@
+﻿@model List<DotNetCoreCsharpProject.Entities.Students>
+@{
+    ViewData["Title"] = "Index";
+}
+
+    <div id="division" class="container-fluid p-1 bg-dark text-white">
+
+        @{
+            @if (Model.Count() >= 1)
+            {
+        <div class="d-flex m-3 justify-content-center">
+            <button type="button" onclick="location.href ='/Student/addReport?id=1'" class="btn-lg btn-primary m-4">Rapport d'avancement 1</button>
+            <button type="button" onclick="location.href ='/Student/addReport?id=2'" class="btn-lg btn-warning m-4">Rapport d'avancement 2</button>
+            <button type="button" onclick="location.href ='/Student/addReport?id=3'" class="btn-lg btn-danger m-4">Rapport d'avancement 3</button>
+            <button type="button" onclick="location.href ='/Student/addReport?id=4'" class="btn-lg btn-light m-4">Rapport d'avancement 4</button>
+
+        </div>
+                <h1 class="text-center text-white">Bonjour @ViewBag.FullName </h1>
+
+                <div>
+                    <h1 class="text-center text-white">Mon groupe </h1>
+
+                    <table id="tblStudent" class="table table-bordered table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th align="left" class="productth text-white">Nom</th>
+                                <th align="left" class="productth text-white">Email</th>
+                                <th align="left" class="productth text-white">Phone</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="prtoducttd text-white">@item.IdUserNavigation.LastName @item.IdUserNavigation.FirstName</td>
+                                        <td class="prtoducttd text-white">@item.IdUserNavigation.Email </td>
+                                        <td class="prtoducttd text-white">@item.IdUserNavigation.PhoneNumber </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                        <div class="d-flex m-3 justify-content-center">
+                        <button type="button" id="newGrp" onclick="location.href ='/Student/addReport?id=5'" class="btn-lg btn-success m-4">Rapport final</button>
+                        </div>
+                    </div>
+                    }
+                    @if (Model.Count() == 1 && Model.FirstOrDefault().GroupId == null)
+                    {
+                        <h1 class="text-center text-white">Bonjour @ViewBag.FullName</h1>
+                        <h1 class="text-center text-white">Pensez à créer votre groupe </h1>
+                        <div class="d-flex m-3 justify-content-center">
+                            <button type="button" id="newGrp" onclick="location.href ='/Student/addNewGroup'" class="btn-lg btn-info m-4">Add a new Group</button>
+                        </div>
+
+
+                    }
+                    }
+                </div>
+

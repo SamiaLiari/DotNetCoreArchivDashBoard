@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="m-4">
+
+    <h3>Upload Students</h3>
+    @using (Html.BeginForm("uploadStudent",
+                        "UploadUser",
+                        FormMethod.Post,
+                        new { id = "uploadForm", enctype = "multipart/form-data" }
+                        ))
+    {
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Nivau :</label>
+            <select name="niv" class="form-control">
+                @foreach (var niveau in ViewBag.niveaux)
+                {
+                    <option value="@niveau.IdNiveau">@niveau.NomNiveau</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Filiere :</label>
+            <select name="fil" class="form-control">
+                @foreach (var filiere in ViewBag.filieres)
+                {
+                    <option value="@filiere.IdFiliere">@filiere.NomFiliere</option>
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="file">Select excel File:</label>
+            <input class="form-control-file" type="file" name="file" id="file" />
+        </div>
+
+        <input type="submit" class="btn-sm bg-primary text-white" value="Upload Students" />
+        <br>
+
+        <span class="badge badge-info m-2">@ViewBag.StudentMessage</span>
+        <span class="badge badge-info m-2">@ViewBag.AddedStudent</span>
+    }
+</div>
+
+<div class="m-4">
+    <h3>Upload Professor</h3>
+    @using (Html.BeginForm("uploadProf",
+                      "UploadUser",
+                      FormMethod.Post,
+                      new { id = "uploadForm", enctype = "multipart/form-data" }
+                     ))
+    {
+
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Filiere :</label>
+            <select name="fil" class="form-control">
+                @foreach (var filiere in ViewBag.filieres)
+                {
+                    <option value="@filiere.IdFiliere">@filiere.NomFiliere</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="file">Select excel File:</label>
+            <input class="form-control-file" type="file" name="file" id="file" />
+        </div>
+
+        <input type="submit" class="btn-sm bg-primary text-white" value="Upload Professors" />
+        <br>
+
+        <span class="badge badge-info m-2">@ViewBag.ProfessorMessage</span>
+        <span class="badge badge-info m-2">@ViewBag.AddedProfessor</span>
+    }
+</div>
+
+
+
+
+
+
+

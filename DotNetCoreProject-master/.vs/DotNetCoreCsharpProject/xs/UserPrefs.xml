@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{771B6DB8-A823-482E-8D1C-D13DB49B72C1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetCoreCsharpProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DotNetCoreCsharpProject PreferredExecutionTarget="/Users/mac/Applications (Parallels)/{087de19d-3e8c-4107-8383-9c05cb6d3f7f} Applications.localized/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

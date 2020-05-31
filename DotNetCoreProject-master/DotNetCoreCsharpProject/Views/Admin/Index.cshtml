@@ -1,0 +1,169 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Affectation des encadrants</h1>
+
+<form action="/Admin/addEncadrant" method="post">
+
+    <div>
+
+        <div class="form-group">
+            <select id="id_fil" class="form-control" asp-items="ViewBag.Idfil" onchange="showProfs()"></select>
+        </div>
+
+        <div class="form-group">
+            <select id="id_lev" class="form-control" asp-items="ViewBag.Idlev" onchange="showGroups()"></select>
+        </div>
+
+        <div class="form-group">
+            <select id="id_prof" class="form-control" name="encadrant"><option>Choisissez un encadrant</option></select>
+        </div>
+
+        <div class="form-group">
+            <select id="id_grp" class="form-control" onchange="LoadStudents()" name="group"><option value="0">Choisissez un groupe</option></select>
+        </div>
+
+        <div id="tableDiv">
+            <div>
+                <table id="tblStudent" class="table table-bordered table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th align="left" class="productth">Cne</th>
+                            <th align="left" class="productth">Nom</th>
+                            <th align="left" class="productth">Mail</th>
+                            <th align="left" class="productth">Télé</th>
+
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Valider" class="btn-lg btn-primary" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+
+@section Scripts{
+    <script type="text/javascript">
+
+        function showGroups() {
+            fil = $("#id_fil").val();
+            niveau = $('#id_lev').val();
+            if (fil !== 0) {
+                var select = document.getElementById('id_grp');
+                $('#id_grp').empty().append('<option value="0">Choisissez un groupe</option>');
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("showGroups")',
+                    dataType: "json",
+                    data: { id_f: fil, id_l: niveau },
+                    success: function (data) {
+                    var items = '';
+                    console.log("successsssss");
+
+                    $.each(data, function (index, item) {
+                        var o = new Option(item.LastName, item.Id);
+                        /// jquerify the DOM object 'o' so we can use the html method
+                        $(o).html(item.LastName + (index+1));
+                        select.append(o);
+                        console.log(item.LastName)
+                        //select.append($("<option>").val(item.FirstName).text(item.FirstName));
+                    });
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("errrrrr");
+                }
+            });
+            }
+        }
+
+        function LoadStudents() {
+                $("tableDiv").show();
+                var idGrp = $('#id_grp').val();
+                console.log("loading data.....");
+                $("#tblStudent tbody tr").remove();
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("getStudents")',
+                    dataType: "json",
+                    data: { id_g: idGrp },
+                    success: function (data) {
+                var items = '';
+                $.each(data, function (i, item) {
+                    var rows = "<tr>"
+                    + "<td class='prtoducttd'>" + item.Cne + "</td>"
+                    //+ "<td class='prtoducttd'>" + item.FirstName + "</td>"
+                    + "<td class='prtoducttd'>" + item.LastName + "</td>"
+                        + "<td class='prtoducttd'>" + item.Email + "</td>"
+                        + "<td class='prtoducttd'>" + item.Numero + "</td>"
+
+                  //  + "<td class='prtoducttd'>"+"<input type='checkbox' name ='stdid' value= "+'std' + item.Id + " /> "+ "</td>"
+                    + "</tr>";
+                    $('#tblStudent tbody').append(rows);
+                    console.log(item.LastName);
+                        });
+                    },
+                    error: function (ex) {
+                        var r = jQuery.parseJSON(response.responseText);
+                        alert("Message: " + r.Message);
+                        alert("StackTrace: " + r.StackTrace);
+                        alert("ExceptionType: " + r.ExceptionType);
+                    }
+                });
+                return false;
+            }
+            
+        function showProfs() {
+            filiere = $("#id_fil").val();
+            var select = document.getElementById('id_prof');
+            $('#id_prof').empty().append('<option>Choisissez un encadrant</option>');
+            $.ajax({
+                type: 'GET',
+                url: '@Url.Action("showProfs")',
+                dataType: "json",
+                data: { id_f: filiere },
+                success: function (data) {
+                var items = '';
+                console.log("successsssss");
+
+
+                    $.each(data, function (index, item) {
+                        var o = new Option(item.LastName, item.Id);
+                    /// jquerify the DOM object 'o' so we can use the html method
+                        $(o).html(item.LastName);
+                        select.append(o);
+                        console.log(item.LastName)
+                        //select.append($("<option>").val(item.FirstName).text(item.FirstName));
+                    });
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("errrrrr");
+                }
+            });
+        }
+
+
+
+    $( document ).ready(function() {
+        console.log("ready!");
+        $("tableDiv").hide();
+    });
+
+
+    </script>
+}
+
+
+

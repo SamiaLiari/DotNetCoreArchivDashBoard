@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "addReport";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div id="division" class="container p-3 bg-dark text-white">
+        <h1 class="text-center text-white">@ViewBag.msg </h1>
+        @if (String.IsNullOrEmpty(ViewBag.path))
+        {
+            <h2 style="color:brown">@ViewBag.remainingTime</h2>
+            <form enctype="multipart/form-data" action="UploadFile" method="post">
+                @if (ViewBag.IdType != null)
+                {
+
+                    <div class="form-group mt-2">
+                        <div class="col-sm-5">
+                            <label class="control-label" for="sujetDesc">Type du projet </label>
+                            <select id="id_type" name="id_type" class="form-control" asp-items="ViewBag.IdType"></select>
+                        </div>
+                    </div>
+                }
+
+                <div class="form-horizontal p-3">
+                    <div class="form-group mt-2">
+                        <div class="col-sm-5">
+                            <input type="file" class="form-control-file" id="file" name="file" placeholder="Upload report">
+                            <span class="text-white">Accepted formats: Pdf, Word</span>
+                            <span class="text-danger">@ViewBag.errMsg</span>
+                            <input type="hidden" class="form-control" name="idReport" value="@ViewBag.idReport">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn-lg btn-primary">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        }
+
+        @if (!String.IsNullOrEmpty(ViewBag.path))
+        {
+    <h2>
+        You have already uploaded that report 
+        @Html.ActionLink("Download it", "DownloadFile", new {filePath= @ViewBag.path})
+    </h2>
+        }
+
+
+    </div>
+
